@@ -12,4 +12,4 @@ Technologies and libraries used:
 The project is built and run under Java 1.8.0_31.
 Build the project in command line: mvn exec:java
 
-Eclipse project files included.
+Eclipse project files included .
